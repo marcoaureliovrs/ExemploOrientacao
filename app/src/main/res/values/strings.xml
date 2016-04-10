@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exemplo Orientacao</string>
+    <string name="lbl_digite">Digite o nome</string>
+    <string name="lbl_adicionar">Adicionar</string>
+</resources>
